@@ -30,3 +30,15 @@ All the scripts show a **tooltip** when you hover the mouse pointer over their m
 * **Generate Webfonts:** Generates webfonts (WOFF2) from instances (or selected instances) with css file.
 * **Remove Overlap:** Removes overlap in all glyphs.
 * **Scale Selection:** Scales the selected glyphs by a factor.
+
+# License
+
+This project is licensed under the [MLP 2.0](https://opensource.org/licenses/MLP-2.0) license. You are free to use, modify and distribute the scripts. If you do, please keep the ATF header intact and consider linking back to this repository. Thank you.
+
+# Change Log
+
+- 26-08-2024: Initial release.
+- 28-08-2024: Updated `Cursive Cleaner` script:
+  - Added support for more anchors.
+  - Added support for skipping marks.
+  - Exceptions now includes components using the exception glyphs.
